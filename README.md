@@ -22,7 +22,6 @@ Inventory Tracking: Store managers could easily track inventory levels, manage o
 
 Future Plans: I envision transforming this project into a cloud-based solution and integrating Customer Relationship Management (CRM) functionality using Salesforce. This evolution will further enhance its scalability, accessibility, and customer-centric approach.
 
-<img width="945" alt="Screenshot 2024-03-13 190715" src="https://github.com/Aditi55Pathak/Store_Managment/assets/80877301/be24bc5c-0d4b-4c67-a844-4229a5f0a49a">
 
 
 
