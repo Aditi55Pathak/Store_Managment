@@ -1,5 +1,6 @@
 
 ## STORE MANAGEMENT SYSTEM 
+
 ## Project Description
 
 The Store Management Project 2019 was a pivotal endeavor aimed at revolutionizing the inventory management process for retail stores. It focused on enhancing efficiency and accuracy in store operations through seamless order management and reporting capabilities.
@@ -21,6 +22,11 @@ Vendor Selection: Local stores with the right goods and competitive prices were 
 Inventory Tracking: Store managers could easily track inventory levels, manage orders, and generate reports for better decision-making.
 
 Future Plans: I envision transforming this project into a cloud-based solution and integrating Customer Relationship Management (CRM) functionality using Salesforce. This evolution will further enhance its scalability, accessibility, and customer-centric approach.
+
+## Base Plan
+
+![WhatsApp Image 2024-03-28 at 11 42 12 PM](https://github.com/Aditi55Pathak/Store_Managment/assets/80877301/c182506c-7b81-4378-acd6-032c518191eb)
+
 
 
 
